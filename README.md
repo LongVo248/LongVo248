@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @LongVo248
+- It doesn't matter who I am, what I do defines me.
 - while(!myLife.makeSuccess()){
 -   myLife.tryAgian();
 - }
