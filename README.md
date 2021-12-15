@@ -2,6 +2,14 @@
 
 ## I'm a Java Developer!!
 
+- 🌱 I’m currently learning everything 🤣
+- ⚡ Who I am is not important. What I do defines me .
+- 👯 Humanity is limited. As for me, I ignore my limits.
+- 🔭 while(!myLife.makeSuccess())
+
+    {
+        myLife.tryAgain();
+    }
 ### Connect with me:
 
 [<img align="left" alt="Yuno | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
