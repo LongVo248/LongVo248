@@ -3,7 +3,7 @@
 ## I'm a Java Developer!!
 
 - 🌱 I’m currently learning everything 🤣
-- ⚡ Who I am is not important. What I do defines me .
+- ⚡ "It's not who I am underneath, but what I do that defines me." - Batman
 - 👯 Humanity is limited. As for me, I ignore my limits.
 - 🔭 while(!myLife.makeSuccess())
 
