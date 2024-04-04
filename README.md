@@ -36,6 +36,6 @@
 
 [facebook]: https://www.facebook.com/style.of.me.vn
 [twitter]: https://twitter.com/HLV_Yuno
-[instagram]: https://www.instagram.com/hoang_long_it
-[linkedin]: https://www.linkedin.com/in/vo-long-335133171
+[instagram]: https://www.instagram.com/long_voxhoag/
+[linkedin]: https://www.linkedin.com/in/vo-hoang-long-335133171/
 [webdev]: https://github.com/LongVo248
